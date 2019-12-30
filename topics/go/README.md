@@ -42,7 +42,7 @@ You must develop a design philosophy that establishes a set of guidelines. This 
 
 **Open Your Mind**  
 * Technology changes quickly but people's minds change slowly.
-* Easy to adopt new technology but hard to adopt new ways of thinking.
+* Easy to adapt new technology but hard to adapt new ways of thinking.
 
 **Interesting Questions - What do they mean to you?**  
 * Is it a good program?
